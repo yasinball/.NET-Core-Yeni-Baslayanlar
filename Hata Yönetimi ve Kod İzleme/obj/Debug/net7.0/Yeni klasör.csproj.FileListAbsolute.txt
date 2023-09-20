@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\bin\Debug\net7.0\Yeni klasör.exe
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\bin\Debug\net7.0\Yeni klasör.deps.json
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\bin\Debug\net7.0\Yeni klasör.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\bin\Debug\net7.0\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\bin\Debug\net7.0\Yeni klasör.pdb
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\refint\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.pdb
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\Yeni klasör\obj\Debug\net7.0\ref\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\bin\Debug\net7.0\Yeni klasör.exe
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\bin\Debug\net7.0\Yeni klasör.deps.json
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\bin\Debug\net7.0\Yeni klasör.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\bin\Debug\net7.0\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\bin\Debug\net7.0\Yeni klasör.pdb
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\refint\Yeni klasör.dll
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.pdb
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\Hata Yönetimi ve Kod İzleme\obj\Debug\net7.0\ref\Yeni klasör.dll
