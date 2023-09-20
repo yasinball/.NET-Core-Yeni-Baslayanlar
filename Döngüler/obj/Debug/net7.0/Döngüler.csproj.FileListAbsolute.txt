@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pratikler\Döngüler\bin\Debug\net7.0\Döngüler.exe
+C:\Users\PC\Desktop\Pratikler\Döngüler\bin\Debug\net7.0\Döngüler.deps.json
+C:\Users\PC\Desktop\Pratikler\Döngüler\bin\Debug\net7.0\Döngüler.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\Döngüler\bin\Debug\net7.0\Döngüler.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler\bin\Debug\net7.0\Döngüler.pdb
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\refint\Döngüler.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.pdb
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\Döngüler.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler\obj\Debug\net7.0\ref\Döngüler.dll
