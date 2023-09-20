@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\bin\Debug\net7.0\Döngüler While-Foreach.exe
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\bin\Debug\net7.0\Döngüler While-Foreach.deps.json
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\bin\Debug\net7.0\Döngüler While-Foreach.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\bin\Debug\net7.0\Döngüler While-Foreach.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\bin\Debug\net7.0\Döngüler While-Foreach.pdb
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\refint\Döngüler While-Foreach.dll
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.pdb
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\Döngüler While-Foreach.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\Döngüler While-Foreach\obj\Debug\net7.0\ref\Döngüler While-Foreach.dll
