@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\bin\Debug\net7.0\Karar Yapıları Switch-Case.exe
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\bin\Debug\net7.0\Karar Yapıları Switch-Case.deps.json
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\bin\Debug\net7.0\Karar Yapıları Switch-Case.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\bin\Debug\net7.0\Karar Yapıları Switch-Case.dll
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\bin\Debug\net7.0\Karar Yapıları Switch-Case.pdb
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.dll
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\refint\Karar Yapıları Switch-Case.dll
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.pdb
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\Karar Yapıları Switch-Case.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\Karar Yapıları Switch-Case\obj\Debug\net7.0\ref\Karar Yapıları Switch-Case.dll

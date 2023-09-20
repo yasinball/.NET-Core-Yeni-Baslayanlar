@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Pratikler\if-else-if\bin\Debug\net7.0\if-else-if.exe
+C:\Users\PC\Desktop\Pratikler\if-else-if\bin\Debug\net7.0\if-else-if.deps.json
+C:\Users\PC\Desktop\Pratikler\if-else-if\bin\Debug\net7.0\if-else-if.runtimeconfig.json
+C:\Users\PC\Desktop\Pratikler\if-else-if\bin\Debug\net7.0\if-else-if.dll
+C:\Users\PC\Desktop\Pratikler\if-else-if\bin\Debug\net7.0\if-else-if.pdb
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.AssemblyInfo.cs
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.dll
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\refint\if-else-if.dll
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.pdb
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\if-else-if.genruntimeconfig.cache
+C:\Users\PC\Desktop\Pratikler\if-else-if\obj\Debug\net7.0\ref\if-else-if.dll
